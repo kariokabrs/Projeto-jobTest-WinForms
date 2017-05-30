@@ -1,0 +1,15 @@
+C:\c programs\jogoDosAnimais\jogoDosAnimais\bin\Debug\jogoDosAnimais.exe.config
+C:\c programs\jogoDosAnimais\jogoDosAnimais\bin\Debug\jogoDosAnimais.exe
+C:\c programs\jogoDosAnimais\jogoDosAnimais\bin\Debug\jogoDosAnimais.pdb
+C:\c programs\jogoDosAnimais\jogoDosAnimais\bin\Debug\jogoDosAnimais.xml
+C:\c programs\jogoDosAnimais\jogoDosAnimais\obj\Debug\jogoDosAnimais.Form1.resources
+C:\c programs\jogoDosAnimais\jogoDosAnimais\obj\Debug\jogoDosAnimais.Resources.resources
+C:\c programs\jogoDosAnimais\jogoDosAnimais\obj\Debug\jogoDosAnimais.vbproj.GenerateResource.Cache
+C:\c programs\jogoDosAnimais\jogoDosAnimais\obj\Debug\jogoDosAnimais.exe
+C:\c programs\jogoDosAnimais\jogoDosAnimais\obj\Debug\jogoDosAnimais.xml
+C:\c programs\jogoDosAnimais\jogoDosAnimais\obj\Debug\jogoDosAnimais.pdb
+C:\c programs\jogoDosAnimais\jogoDosAnimais\obj\Debug\jogoDosAnimais.vbprojResolveAssemblyReference.cache
+C:\c programs\jogoDosAnimais\jogoDosAnimais\bin\Debug\jogoDosAnimais.exe.manifest
+C:\c programs\jogoDosAnimais\jogoDosAnimais\bin\Debug\jogoDosAnimais.application
+C:\c programs\jogoDosAnimais\jogoDosAnimais\obj\Debug\jogoDosAnimais.exe.manifest
+C:\c programs\jogoDosAnimais\jogoDosAnimais\obj\Debug\jogoDosAnimais.application
